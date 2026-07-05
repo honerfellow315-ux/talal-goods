@@ -21,7 +21,7 @@ export const Route = createFileRoute("/")({
 });
 
 const BRAND = "#E8420A";
-const PHONE = "0301-8416275";
+const PHONE = "03xxxxxxx";
 const WHATSAPP = "https://wa.me/92xxxxxxxx";
 
 const services = [
