@@ -77,10 +77,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Talal Goods — Pakistan's Trusted Freight & Transport Company" },
+      { title: "Tal Goods — Pakistan's Trusted Freight & Transport Company" },
       { name: "description", content: "500+ truck fleet covering all of Pakistan. Goods transport, packers & movers, containers, car carriers and crane rental since 2005." },
-      { name: "author", content: "Talal Goods" },
-      { property: "og:title", content: "Talal Goods — Pakistan's Trusted Freight Partner" },
+      { name: "author", content: "Tal Goods" },
+      { property: "og:title", content: "Tal Goods — Pakistan's Trusted Freight Partner" },
       { property: "og:description", content: "Move anything, anywhere in Pakistan. 500+ trucks, 7+ cities, 20+ years of trusted logistics." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },

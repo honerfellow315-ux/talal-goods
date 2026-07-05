@@ -1,4 +1,4 @@
-# Talal Goods — Homepage
+# Tal Goods — Homepage
 
 Premium homepage built with TanStack Start + Vite + Tailwind v4 + Framer Motion.
 
@@ -32,5 +32,5 @@ No environment variables required for the frontend-only homepage.
 
 ## Contact (in site)
 
-- Phone: 0301-8416275
-- WhatsApp: https://wa.me/923018416275
+- Phone: 03xx-xxxxxxx
+- WhatsApp: https://wa.me/923xxxxxx

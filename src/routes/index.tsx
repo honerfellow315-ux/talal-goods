@@ -11,9 +11,9 @@ import heroTrucks from "@/assets/hero-trucks.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Talal Goods — Pakistan's Trusted Freight & Transport Since 2005" },
+      { title: "Tal Goods — Pakistan's Trusted Freight & Transport Since 2005" },
       { name: "description", content: "500+ truck fleet. Nationwide coverage. Goods transport, packers & movers, containers, car carriers & crane rental across Pakistan." },
-      { property: "og:title", content: "Talal Goods — Move Anything, Anywhere in Pakistan" },
+      { property: "og:title", content: "Tal Goods — Move Anything, Anywhere in Pakistan" },
       { property: "og:description", content: "Pakistan's most trusted freight partner. 20+ years, 500+ trucks, 7+ cities." },
     ],
   }),
@@ -22,7 +22,7 @@ export const Route = createFileRoute("/")({
 
 const BRAND = "#E8420A";
 const PHONE = "0301-8416275";
-const WHATSAPP = "https://wa.me/923018416275";
+const WHATSAPP = "https://wa.me/92xxxxxxxx";
 
 const services = [
   { Icon: Truck, title: "Goods Transport", desc: "Nationwide freight movement using trucks, containers and trailers. Safe delivery, guaranteed." },
@@ -113,7 +113,7 @@ function Index() {
         <a href="#" className="flex items-center gap-3">
           <div className="w-9 h-9 rounded-lg flex items-center justify-center text-white font-black text-[15px] tracking-tighter shadow-[0_8px_24px_-8px_rgba(232,66,10,0.6)]" style={{ background: BRAND }}>TG</div>
           <div>
-            <div className="font-bold text-[15px] leading-tight">Talal Goods</div>
+            <div className="font-bold text-[15px] leading-tight">Tal Goods</div>
             <div className="text-[10px] text-white/40 uppercase tracking-[1px]">Transport Company</div>
           </div>
         </a>
@@ -378,7 +378,7 @@ function Index() {
       <footer className="border-t border-white/[0.07] px-6 md:px-12 py-10 flex flex-wrap items-center justify-between gap-4">
         <div className="flex items-center gap-3">
           <div className="w-7 h-7 rounded-md flex items-center justify-center text-white font-black text-[11px]" style={{ background: BRAND }}>TG</div>
-          <div className="text-[12px] text-white/30">© {new Date().getFullYear()} Talal Goods Transport Company · Karachi, Lahore, Islamabad</div>
+          <div className="text-[12px] text-white/30">© {new Date().getFullYear()} Tal Goods Transport Company · Karachi, Lahore, Islamabad</div>
         </div>
         <div className="flex gap-6">
           {["Services", "About", "Contact", "Privacy"].map((l) => (
